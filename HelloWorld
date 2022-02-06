@@ -1,0 +1,8 @@
+package FirstClass;
+
+public class HelloWorld {
+    public static void main(String[] args)  {   //
+        System.out.println("Hello World"); // [3]
+    System.out.println("Pawel"); //}
+  System.out.println (51);
+ System.out.println ('W'); }}
